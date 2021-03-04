@@ -1,4 +1,4 @@
-# WAconvo-DataAnalysis
+# WhatsApp Conversation Data Analysis
  A python notebook running data analysis on a 5 year WhatsApp conversation
 
 Below are some of the outputs from an analysis on my personal data (some elements are censored):
